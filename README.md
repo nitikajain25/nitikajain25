@@ -5,21 +5,20 @@ Hi, I'm Nitika 👩‍💻
 
 🎓 Pursuing an Integrated B.Tech + M.Tech in Information Technology
 
-🧠 **AI/ML Enthusiast** | Exploring agentic AI and building intelligent systems
+🧠 **AI/ML Enthusiast** | Interested in Exploring AI & ML and building intelligent systems
 
 💻 **Tech Arsenal:** C++, Python, SQL | **Web:** React.js, JavaScript, HTML, CSS
 
 ⚡ Passionate about DSA, frontend development, and designing modern AI architectures that replace traditional workflows
 
-🚀 Currently working on smart extraction tools like **Voice-Audit** and conceptualizing AI-driven ideas like **KrishiKrew**
+🚀 Building dynamic web applications while exploring the power of Python to create intelligent AI/ML solutions
 
 📫 Let's connect for internships, open-source collaboration, or just to talk tech!
 
 ## 🌐 Socials:
 ---
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/nitika-jain-b8690b353)" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="[https://www.linkedin.com/in/nitika-jain-b8690b353](https://www.linkedin.com/in/nitika-jain-b8690b353)" target="_blank">
 </a>
 <a href="mailto:nitikaj66@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -40,5 +39,4 @@ Hi, I'm Nitika 👩‍💻
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </p>
